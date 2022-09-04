@@ -188,4 +188,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Copyright 2023 by <a href="https://rifzki.my.id/" target="_blank">Rifzki Adiyaksa</a></div>
