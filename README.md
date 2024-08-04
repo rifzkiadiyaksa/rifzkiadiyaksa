@@ -184,4 +184,4 @@
 <br />
 
 ----
-<div align="center">Copyright 2023 by <a href="https://rifzki.my.id/" target="_blank">Rifzki Adiyaksa</a></div>
+<div align="center">Copyright 2025 by <a href="https://rifzki.my.id/" target="_blank">Rifzki Adiyaksa</a></div>
